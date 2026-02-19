@@ -28,7 +28,7 @@ This script automates the creation of a complete attendance tracking application
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YourUsername/deploy_agent_YourUsername.git
+git clone https://github.com/Runweztt/deploy_agent_runweztt.git
 cd deploy_agent_YourUsername
 ```
 
