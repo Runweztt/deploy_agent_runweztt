@@ -3,7 +3,7 @@
 Automated shell script for bootstrapping a Student Attendance Tracker project.
 
 ## Author
-**Name:** Emmanuel c Amarikwa  
+**Name:** Emmanuel .C. Amarikwa  
 **GitHub:** runweztt  
 
 
