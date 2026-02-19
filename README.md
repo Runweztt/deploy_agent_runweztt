@@ -2,6 +2,8 @@
 
 Automated shell script for bootstrapping a Student Attendance Tracker project.
 
+🎥 **[Video Demonstration](https://drive.google.com/drive/folders/1S9PMeuYXkj7K8EhjvoZ1QbAgCUXmsy93?usp=sharing)** |  **[GitHub Repository](https://github.com/Runweztt/deploy_agent_runweztt)**
+
 ## Author
 **Name:** Emmanuel .C. Amarikwa  
 **GitHub:** runweztt  
