@@ -3,9 +3,9 @@
 Automated shell script for bootstrapping a Student Attendance Tracker project.
 
 ## Author
-**Name:** [Your Name]  
-**GitHub:** [@YourUsername]  
-**Course:** Introduction to Linux and IT Tools - January 2026
+**Name:** Emmanuel c Amarikwa  
+**GitHub:** runweztt  
+
 
 ## Overview
 
